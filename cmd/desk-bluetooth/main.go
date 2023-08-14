@@ -8,8 +8,8 @@ import (
 	"github.com/spf13/cobra"
 	configkit "go.soon.build/kit/config"
 
-	"git@github.com:kyleshepherd/desk-bluetooth.git/internal/config"
-	"git@github.com:kyleshepherd/desk-bluetooth.git/internal/version"
+	"github.com/kyleshepherd/desk-bluetooth/internal/config"
+	"github.com/kyleshepherd/desk-bluetooth/internal/version"
 )
 
 // Default logger

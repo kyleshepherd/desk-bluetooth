@@ -1,4 +1,4 @@
-module git@github.com:kyleshepherd/desk-bluetooth.git
+module github.com/kyleshepherd/desk-bluetooth
 
 require (
 	github.com/rs/zerolog v1.11.0

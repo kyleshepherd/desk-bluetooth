@@ -3,9 +3,8 @@ package main
 import (
 	"os"
 
+	"github.com/kyleshepherd/desk-bluetooth/internal/version"
 	"github.com/spf13/cobra"
-
-	"git@github.com:kyleshepherd/desk-bluetooth.git/internal/version"
 )
 
 // versionCmd returns a CLI command that when run prints

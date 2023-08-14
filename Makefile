@@ -1,6 +1,6 @@
 # General
 CMD      :=
-PKG      := git@github.com:kyleshepherd/desk-bluetooth.git
+PKG      := github.com/kyleshepherd/desk-bluetooth
 PKG_LIST := $(shell go list ${PKG}/... | grep -v /vendor/)
 
 # Docker
